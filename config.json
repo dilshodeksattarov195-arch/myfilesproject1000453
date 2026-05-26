@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerstringify",
+        "uuid": 3984588,
+        "checksum": "j4uz3a"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
